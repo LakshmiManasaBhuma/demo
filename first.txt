@@ -4,8 +4,7 @@
 My name is manasa. this is my firstfile
 i am learning springboot
 
-=======
+
 i am learning git
-My name is manasa. this is my firstfile
 
 
