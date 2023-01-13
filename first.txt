@@ -1,2 +1,2 @@
 My name is manasa. this is my firstfile
-Now i am learning git.
+
